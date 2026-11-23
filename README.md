@@ -1,5 +1,5 @@
-![WhatsApp Image 2026-02-04 at 4 41 53 PM](https://github.com/user-attachments/assets/107ba069-cc8f-4d49-abe5-6e2ac7d97e8d)
-![WhatsApp Image 2026-02-04 at 4 42 23 PM](https://github.com/user-attachments/assets/f5e4f490-f579-471b-9548-e5aa80caf9ad)
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-23 at 7 37 35 PM" src="https://github.com/user-attachments/assets/b3b80eb2-436a-4d54-aff7-420152a3c4c0" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-23 at 7 38 06 PM" src="https://github.com/user-attachments/assets/d79aa6fc-e2b5-443f-90f7-030157e86e93" />
 
 This Power BI dashboard provides a comprehensive analysis of digital marketing campaigns across Facebook and Instgram . The project focuses on measuring user engagement, tracking conversions, and evaluating budget efficiency to help marketing teams optimize their digital presence.
 
